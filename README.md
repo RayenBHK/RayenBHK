@@ -1,31 +1,19 @@
-Hi there, I'm Rayen Bouchrika @ RayenBHK 👋
-================================================
+# 💫 About Me:
+# Hi there, I'm Rayen Bouchrika (@RayenBHK) 👋<br>================================================<br><br>🚀 CS Student | Full-Stack Developer | AI & Systems Enthusiast<br>--------------------------------------------------------------<br><br>I am a highly motivated Computer Science student dedicated to continuous skill sharpening and delivering robust, scalable technical solutions. I thrive on exploring system internals, designing distributed architectures, and bridging the gap between full-stack applications and intelligence.<br><br>---<br><br>### 💻 Technical Toolbox<br><br>*   **Languages:** `Python` 🐍, `JavaScript` 🟨, `TypeScript` 🟦, `Java` ☕, `C/C++` ⚙️<br>*   **Backend & APIs:** `Node.js` 🟢, `FastAPI` ⚡, `Python REST APIs`<br>*   **Frontend Web Dev:** `React` ⚛️, `HTML5` 🪟, `CSS3` 🎨<br>*   **Databases & BaaS:** `PostgreSQL` 🐘, `Supabase` ⚡, `Firebase` 🔥<br>*   **AI & Machine Learning:** `LLMs & RAG Logic` 🧠, `Ollama` 🦙, `Model Deployment`<br>*   **DevOps & Systems:** `Linux (Fedora)` 🐧, `Docker` 🐋, `Bash Scripting` 📜, `Git` 🗃️<br><br>---<br><br>### 🌱 Current Focus & Core Projects<br><br>My immediate focus is on transitioning theoretical knowledge into robust, production-ready systems by:<br><br>*   **Distributed AI-Commerce:** Building a 3-device Dockerized cluster utilizing FastAPI, Supabase, and RAG logic for multi-stage retrieval.<br>*   **Intelligent Automation:** Developing specialized tools like *Wassalni* (an integrated ticketing/payment system) and custom OCR digitization workflows (*Blackboard-to-Markdown*).<br>*   **System Environments:** Deepening my expertise in advanced Linux configurations, containerized application pipelines, and optimized development environments.<br><br>---<br><br>### 🤝 Connect with Me<br><br>I'm always open to exciting collaborations, mentorship, and deep-dive technical discussions!<br><br>*   💼 **LinkedIn:** [linkedin.com/in/rayen-bouchrika-2715a328b/](https://www.linkedin.com/in/rayen-bouchrika-2715a328b/)<br>*   📧 **Email:** [rayenbouchrika19@gmail.com](mailto:rayenbouchrika19@gmail.com)
 
-🚀 CS Student | Web Dev | AI Enthusiast
----------------------------------------
 
-I am a highly motivated Computer Science student dedicated to continuous skill sharpening and delivering practical technical solutions. I thrive on exploring diverse domains and tackling complex software engineering challenges.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rayen-bouchrika-2715a328b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayenbouchrika1919@gmail.com) 
 
-### 💻 Key Technical Skills
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=RayenBHK&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RayenBHK&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RayenBHK&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-My core expertise includes **Python, Java, and C** (focusing on Data Structures & Algorithms), **HTML, CSS, and JavaScript** for web development, foundational **AI/ML** concepts, and system proficiency in **Linux, Bash Scripting, and Git** workflows.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RayenBHK&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-### 🌱 Current Focus
-
-My immediate goal is to transition theoretical knowledge into tangible, deployable projects by:
-
-*   Developing a full-stack web application.
-    
-*   Deepening my expertise in Linux system internals and robust development environments.
-    
-*   **Actively advancing practical skills in Machine Learning implementation and model deployment.**
-    
-
-### 🤝 Connect
-
-I'm open to collaboration, mentorship, and technical discussion.
-
-*   **LinkedIn:** https://www.linkedin.com/in/rayen-bouchrika-2715a328b/ 
-    
-*   **Email:** rayenbouchrika19@gmail.com
-    
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
